@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+CSRF_TRUSTED_ORIGINS = ['https://8000-peterhague-stacqato-q4k62xz9mkm.ws-eu43.gitpod.io/']
+
 
 # Application definition
 
